@@ -3,9 +3,9 @@
         "huntandbattle": "true",
         "banbypass": "true",
         "discordrpc": "false",
-        "pray": "false",
+        "pray": "true",
         "curse": "false",
-        "autoquest": "false",
+        "autoquest": "true",
         "extratoken": "false",
         "inventory": {
             "inventorycheck": "true",
@@ -16,8 +16,8 @@
             "eventcheck": "true"
         },
         "animals": {
-            "enable": "false",
-            "type": "sacrifice",
+            "enable": "true",
+            "type": "sell",
             "animaltype": {
                 "common": "true",
                 "uncommon": "true",
@@ -42,7 +42,7 @@
         "gamble": {
             "coinflip": {
                 "default_amount": 1000,
-                "max_amount": 150000,
+                "max_amount": 1500,
                 "multipler": 3,
                 "enable": "true", 
                 "amount": "1"
@@ -54,12 +54,12 @@
         }
     },
     "main": {
-        "token": "",
-        "userid": "",
-        "channelid": "",
-        "owodmchannelid": "",
-        "gamblechannelid":"",
-        "autoquestchannelid": ""
+        "token":"MTE0NTAwNzgwMjYxNjY1OTk3OQ.G7p3Ut.Kga4ZL9vhxbb6ybGbfHFchfYg4Q963AIcwa4YA",
+        "userid": "1145007802616659979",
+        "channelid": "1151134574747852827",
+        "owodmchannelid": "1180764407932932116",
+        "gamblechannelid":"1151134574747852828",
+        "autoquestchannelid": "1151134574747852829"
     },
     "extra": {
         "token": "",
